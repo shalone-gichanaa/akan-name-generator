@@ -31,7 +31,7 @@ To run this project locally you have to:
 
 
 ## Contact Information
-Email: **gichanashalone@gmail.com**
+Email: **shalonegichana@moringaschool.com**
 
 
 ## License
