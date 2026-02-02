@@ -49,7 +49,6 @@ document.getElementById("akanForm").addEventListener("submit", function (event) 
     alert("Invalid date or month");
     return;
   }
-
   
   const CC = Math.floor(year / 100);
   const YY = year % 100;
