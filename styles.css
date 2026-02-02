@@ -1,0 +1,42 @@
+body{
+    background: lightseagreen;
+}
+
+.title{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+#about{
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: larger;
+}
+
+/* akanform */
+#akanForm{
+    text-align: center;
+    font-size: larger;
+    background: lightcyan;
+    margin:2em 5em;
+    padding: 2em 1em;
+    box-shadow: 0 6px 15px lightcoral;
+    
+    
+}
+.gender{
+    padding: 1em 2em;
+    
+}
+button{
+    color: crimson;
+    cursor: pointer;
+}
+button:hover{
+    background-color: lightseagreen;
+}
+.result-box{
+    padding: 1em;
+    margin: 1em;
+    background-color: lightgreen;
+}

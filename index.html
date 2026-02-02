@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan generator</title>
+
+    <link rel="stylesheet" href="./styles.css" type="text/css">
+</head>
+<body>
+    <div class="title">
+        <h1>What is your Akan Name</h1>
+    </div>
+
+    <div>
+        <p id="about">
+            Akan names are traditional names from Ghana that are given according to the day of the week a person is born.This Akan Name Generator calculates the day of the week from your birthdate and assigns you the correct Akan name based on your gender.
+        </p>
+
+        <form id="akanForm">
+            <label for="birthdate">Enter your birthdate</label>
+            <input type="date" id="birthdate"><br>
+            <div class="gender">
+                <label for="gender">Female</label>
+                <input type="radio" name="gender" value="female">
+                <label for="gender">Male</label>
+                <input type="radio" name="gender" value="male">
+            </div>
+
+                <button type="submit">Fetch my Akan Name</button>
+
+            <div class="result-box" id="result">
+                 Akan Name will appear here!
+            </div>
+            
+            
+        </form>
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
