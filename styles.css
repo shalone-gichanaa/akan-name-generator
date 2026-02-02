@@ -40,3 +40,12 @@ button:hover{
     margin: 1em;
     background-color: lightgreen;
 }
+
+footer{
+    text-align: center;
+    font-size: large;
+    width: 100%;
+    color: navy;
+    padding: 1em;
+    background: rgb(13, 104, 104);
+}
