@@ -12,7 +12,7 @@ The application calculates the day of the week from the user’s birthdate and a
 
 
 ## Setup Instructions
-To run this project locally:
+To run this project locally you have to:
 
 1. Clone this repository or download the project files
 2. Open the project folder in a code editor
