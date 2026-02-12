@@ -29,7 +29,7 @@ body{
     
 }
 button{
-    color: crimson;
+    color: rgb(224, 25, 65);
     cursor: pointer;
 }
 button:hover{
