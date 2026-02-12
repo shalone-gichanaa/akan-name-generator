@@ -39,6 +39,7 @@ document.getElementById("akanForm").addEventListener("submit", function (event) 
   }
 
   
+  
   const dateParts = birthdate.split("-");
   const year = parseInt(dateParts[0]);
   const month = parseInt(dateParts[1]);
